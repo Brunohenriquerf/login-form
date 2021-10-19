@@ -1,14 +1,16 @@
-# Login Form
+# Formulário de Login
 
-This is a simple and responsive login form made with HTML and CSS using transitions.<br />
-This project was made for a youtube tutorial.<br /><br/>
-**Youtube link: https://youtu.be/MkXuQ9CcHqU**
-### Final Result
-<img src="assets/final.png" alt="Web Version"/>
+Simples e responsivo, criado com HTML e CSS, utilizando transições.<br />
+Projeto originalmente feito pela Giovanna Moeller, para o seguinte video, **https://youtu.be/MkXuQ9CcHqU**.<br />
+Foram realizadas mudanças na formatação, e como os squares se comportam.<br /><br/>
 
-## 🚀 Starting
 
-To start the project, just open the file `index.html` in your preferred browser.
+### Resultado final, com as alterações mencionadas.
+<img src="assets/final com squares.png" alt="Web Version"/>
+
+## 🚀 Rodando
+
+Para iniciar o projeto, abra o arquivo `index.html` em seu navegador preferido.
 
 ---
-##### Coded with love by Giovanna Moeller ♥️
+##### Créditos a **https://github.com/giovannamoeller/** e **https://github.com/davidlpc1**

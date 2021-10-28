@@ -5,7 +5,7 @@ Projeto originalmente feito pela Giovanna Moeller, para o seguinte video, **http
 Foram realizadas mudanças na formatação, e como os squares se comportam.<br /><br/>
 
 
-### Resultado final, com as alterações mencionadas.
+### Resultado final, com as alterações mencionadas:
 <img src="assets/final com squares.png" alt="Web Version"/>
 
 ## 🚀 Rodando
